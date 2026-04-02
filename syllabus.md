@@ -7,4 +7,4 @@ Farook College
 This course introduces coordination chemistry in biological systems.
 
 
-[Download/view] (Syllabus_CHE5EJ303.pdf)
+[Download/view] (syllabus/Syllabus_CHE5EJ303.pdf)
