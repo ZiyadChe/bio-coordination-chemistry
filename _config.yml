@@ -1,0 +1,9 @@
+title: Bio-Coordination Chemistry
+description: CHE5EJ303 – Course Website
+theme: jekyll-theme-cayman
+
+header_pages:
+  - schedule.md
+  - assignments.md
+  - resources.md
+  - syllabus.md
