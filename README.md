@@ -27,3 +27,4 @@ Farook College
 - [Course Schedule](schedule.md)
 - [Assignments](assignments.md)
 - [Resources](resources.md)
+- Quiz
