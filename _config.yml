@@ -4,9 +4,11 @@ theme: jekyll-theme-architect
 
 header_pages:
   - schedule.md
+  - slides.md
   - assignments.md
   - resources.md
   - syllabus.md
+  - quiz.md
 
 collections:
   announcements:
