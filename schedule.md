@@ -4,7 +4,7 @@
 
 | Lecture | Topic | Slides |
 |--------|-------|--------|
-| L1 | Classification of ligands | Slides |
+| L1 | Classification of ligands | [Slides](slides/L01.pdf) |
 | L2 | Biologically significant ligands | Slides |
 | L3 | DNA as ligand | Slides |
 | L4 | Porphyrins | Slides |
