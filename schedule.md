@@ -3,7 +3,7 @@
 ## Module I – Ligands in Biological Systems
 
 | Lecture | Topic | Slides |
-|--------|------|------|
+|--------|-------|--------|
 | L1 | Classification of ligands | Slides |
 | L2 | Biologically significant ligands | Slides |
 | L3 | DNA as ligand | Slides |
@@ -19,10 +19,14 @@
 
 ---
 
-## Module II – (To be added later)
+## Module II
+(To be added later)
 
-## Module III – (To be added later)
+## Module III
+(To be added later)
 
-## Module IV – (To be added later)
+## Module IV
+(To be added later)
 
-## Module V – (To be added later)
+## Module V
+(To be added later)
