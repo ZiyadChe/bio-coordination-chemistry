@@ -1,6 +1,6 @@
-# bio-coordination-chemistry
+# Bio-coordination-chemistry
 CHE5EJ303 course website
-Dr. M. Ziyad  
+M. Ziyad  
 Department of Chemistry  
 Farook College
 
