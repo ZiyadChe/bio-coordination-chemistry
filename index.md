@@ -22,8 +22,10 @@ Farook College
 </ul>
 ---
 
-## Course Materials
+### Quick Links
 
-- [Course Schedule](schedule.md)
-- [Assignments](assignments.md)
-- [Resources](resources.md)
+- 📅 [Course Schedule](schedule.md)
+- 📝 [Assignments](assignments.md)
+- 📚 [Resources](resources.md)
+- 📄 [Syllabus](syllabus.md)  
+- ❓ [Quiz](quiz.md)
