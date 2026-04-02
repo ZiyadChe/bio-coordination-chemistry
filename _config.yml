@@ -7,3 +7,7 @@ header_pages:
   - assignments.md
   - resources.md
   - syllabus.md
+
+collections:
+  announcements:
+    output: true
