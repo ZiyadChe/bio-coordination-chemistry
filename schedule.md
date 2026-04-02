@@ -20,6 +20,9 @@
 | 6 | Sep 8 | L11 | Problem solving | [Slides](slides/L11.pdf) |
 | 6 | Sep 10 | L12 | Revision | [Slides](slides/L12.pdf) |
 
+
+### Download all slides for Module I
+[Download ZIP](slides/Module1_slides.zip)
 ---
 
 ## Module II – Metalloproteins
